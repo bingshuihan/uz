@@ -65,7 +65,7 @@ const appConfig = {
         this._webSite = value
     },
 
-    tgs: 'https://t.me/s/',
+    tgs: 'https://tgsou.ddcm.dpdns.org/s/',
 
     _uzTag: '',
     /**
